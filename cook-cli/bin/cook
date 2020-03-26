@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+// CLI 的可执行入口文件，是 CLI 在可执行环境中的代言者
+
+require = require('esm')(module /*, options*/);
+require('../src').cookCli(process.argv);
