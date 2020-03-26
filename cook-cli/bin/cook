@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+// 可执行文件的行首一定要加入#!/usr/bin/env node这行代码可以告诉系统该脚本由 node 来执行。
 // CLI 的可执行入口文件，是 CLI 在可执行环境中的代言者
 
 require = require('esm')(module /*, options*/);
