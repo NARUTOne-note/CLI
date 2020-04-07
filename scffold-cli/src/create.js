@@ -63,3 +63,5 @@ async function create (projectName) {
     });
   }
 }
+
+module.exports = create;
