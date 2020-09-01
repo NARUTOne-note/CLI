@@ -2,6 +2,8 @@
 
 > CLI DEMO
 
+[美味的 CLI](https://juejin.im/post/6844903984994615310?utm_source=gold_browser_extension)
+
 ## use
 
 ```bash
@@ -46,3 +48,7 @@ cp source.js target.js
 ```
 
 > 其实，子命令也是命令的参数
+
+## 记录
+
+`esm` 这个模块，它的作用是让我们可以在 js 源代码中直接使用 ECMAScript modules 规范加载模块，即直接使用 import 和 export。上面 src/index.js 的代码中能直接写 export 得益于该模块。
