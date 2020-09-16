@@ -20,7 +20,15 @@
 - **shelljs** node.js运行shell命令组件
 - **blessed-contrib** 命令行可视化组件
 - **lnquirer** 命令行交互信息收集组件
-- **figlet** 创造出不同于普通屏幕字符的大字符
+- **figlet** 创造出不同于普通屏幕字符的大字符，生成基于ASCII的艺术字
 - **update-notifier** 更新
 - **log-symbols** 不同日志级别的彩色符号
 - **download-git-repo** 下载git项目
+- **clear**: 清空终端屏幕
+- **clui**: 绘制命令行中的表格、仪表盘、加载指示器等；
+- **minimist**: 解析命令行参数；
+- **configstore**: 轻松的加载和保存配置信息；
+- **@octokit/rest**: 基于Node.js的Github REST API工具；
+- **@octokit/auth-basic**: Github身份验证策略的一种实现；
+- **simple-git**: 在Node.js中执行Git命令的工具；
+- **touch**: 实现Unix touch命令的工具；
