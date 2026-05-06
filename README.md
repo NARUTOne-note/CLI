@@ -5,6 +5,11 @@
 - 脚手架CLI
 - 工具CLI
 
+## AI CLI
+
+- [opencli](https://github.com/jackwener/opencli)
+- [cli-anything](https://github.com/HKUDS/CLI-Anything)
+
 ## 常用组件工具
 
 [命令行工具开发工具排行](https://stackify.com/top-command-line-tools/)
